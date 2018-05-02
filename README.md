@@ -1,7 +1,7 @@
 # meeting-2018-04-30
 
 ## intro presentation
-[in this repo](Data Science for Scientists ATL.pdf)
+[in this repo](./Data Science for Scientists ATL.pdf)
 talk about club goals, how they tie in to Atlantic article["The Scientific Article is Obsolete: Here's what's next."](https://www.theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/), interactive publications
 
 ## notebook demos
@@ -13,7 +13,6 @@ http://conference.scipy.org/proceedings/scipy2016/david_nicholson.html
 Jeremy Jacobson  -- reproducing a figure from a mathematics paper
 (using Bokeh library for live plotting of millions of data points)
 https://github.com/jeremyallenjacobson/ZerosReproduction
-
 
 Elyse Morin -- learning about widgets:
 [in this repo](./Learning_about_widgets.ipynb)
