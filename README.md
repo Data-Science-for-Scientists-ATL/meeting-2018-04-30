@@ -1,7 +1,8 @@
 # meeting-2018-04-30
 
 ## intro presentation
-[in this repo](./Data Science for Scientists ATL.pdf)
+
+[in this repo](./Data-Science-for-Scientists-ATL.pdf)
 talk about club goals, how they tie in to Atlantic article["The Scientific Article is Obsolete: Here's what's next."](https://www.theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/), interactive publications
 
 ## notebook demos
